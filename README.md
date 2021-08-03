@@ -1,2 +1,2 @@
 # noSQL
-A sample homework for noSQL practice
+A sample homework for noSQL schema practice
